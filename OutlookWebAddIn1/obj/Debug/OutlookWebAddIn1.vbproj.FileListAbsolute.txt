@@ -1,0 +1,4 @@
+C:\Users\Tristan\source\repos\Test\OutlookWebAddIn1\obj\Debug\OutlookWebAddIn1.vbprojAssemblyReference.cache
+C:\Users\Tristan\source\repos\Test\OutlookWebAddIn1\obj\Debug\OutlookWebAddIn1.vbproj.CoreCompileInputs.cache
+C:\Users\Tristan\source\repos\EmptyBootstrap\OutlookWebAddIn1\obj\Debug\OutlookWebAddIn1.vbprojAssemblyReference.cache
+C:\Users\Tristan\source\repos\EmptyBootstrap\OutlookWebAddIn1\obj\Debug\OutlookWebAddIn1.vbproj.CoreCompileInputs.cache

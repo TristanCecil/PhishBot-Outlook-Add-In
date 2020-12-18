@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
+     Name="OutlookWebAddIn1"
+     ProductID="{0fdb17b3-6bf0-4161-893d-2f457122d69c}"
+     Version="1.0.0.0"
+     SharePointMinVersion="15.0.0.0"
+>
+  <Properties>
+    <Title>OutlookWebAddIn1</Title>
+    <StartPage>https://go.microsoft.com/fwlink/?LinkID=278993</StartPage>
+  </Properties>
+
+  <AppPrincipal>
+    <Internal />
+  </AppPrincipal>
+</App>

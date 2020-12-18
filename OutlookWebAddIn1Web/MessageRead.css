@@ -1,0 +1,108 @@
+﻿/*Page-specific styling */
+
+.padding {
+    padding: 15px;
+}
+
+div.banner {
+    height: 100px;
+    width: 340px;
+    background-color: #ff0000;
+    position: relative;
+    top: 10px;
+    left: -25px;
+}
+
+#logo {
+    display: block;
+    position: relative;
+    top: 25px;
+    left: 150px;
+}
+
+#title{
+    position: relative;
+    left: 175px;
+    font-size: 25px;
+    color: white;
+}
+
+p{
+    margin:0
+}
+
+div.entry{
+    position: relative;
+    height: 75px;
+    /*background-color: #fadfff;
+    border-left: 6px solid #e352ff;*/
+    padding-left: 10px;
+}
+
+p.url {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 8px;
+}
+
+div.progress {
+    height: 15px;
+    width: 202px;
+    background: linear-gradient(to right, #00ff00 0%, #ff0000 100%);
+}
+
+div.mark {
+    text-align: center;
+    display: block;
+    position: absolute;
+    top: 41px;
+    left: 6px;
+}
+
+p.blacklistMessage {
+    color: #ff0000;
+    font-size: 15px;
+    display: none;
+}
+
+#placeholder.entry {
+    display: none;
+    height: 1px;
+}
+
+p.errorMessage {
+    display: none;
+    color: gold;
+    font-size: 15px;
+}
+
+div.rank {
+    background-color: #ffffff;
+    border: 1px solid #106ebe;
+    height: 20px;
+    width: 30px;
+    padding: 2px 4px;
+    position: absolute;
+    text-align: center;
+    top: 12px;
+    left: -20px;
+    color: #000000;
+    border-radius: 4px;
+    font: 14px verdana;
+}
+
+i.carrot {
+    color: #aaaaaa;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+}
